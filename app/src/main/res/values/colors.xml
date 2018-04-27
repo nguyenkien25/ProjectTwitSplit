@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#d2d2d2</color>
+    <color name="colorAccent">#3653f5</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorButtonStart">#2ed573</color>
+    <color name="colorButtonStop">#ff2e31</color>
+    <color name="colorStopAround">#80ff2e31</color>
+    <color name="white50">#80FFFFFF</color>
+    <color name="colorGrey">#ebeae7</color>
+    <color name="colorLine">#ebf3e7</color>
+    <color name="colorBolderBtnSignin">#1A000000</color>
+    <color name="colorBorderPrimary">#ebeae7</color>
+    <color name="colorBold">#343434</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorShadow">#1A000000</color>
+    <color name="colorUnBold">#A5A4A3</color>
+    <color name="colorHeader">#FAF9F5</color>
+    <color name="colorGray">#ebeae7</color>
+    <color name="colorDarkGray">#A9A9A9</color>
+    <color name="colorTextViewResend">#ebeae7</color>
+    <color name="colorSearch">#ebeae7</color>
+
+
+    <color name="botPrimary">#7180AC</color>
+    <color name="botSecondary">#2B4570</color>
+    <color name="responseColor">#011936</color>
+    <color name="inputColor">#F4FFFD</color>
+    <color name="fabIconColor">#FFF</color>
+
+    <color name="chatInput">#52b6e4</color>
+    <color name="chatResponse">#6591ea</color>
+</resources>
